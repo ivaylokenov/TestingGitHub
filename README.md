@@ -1,4 +1,4 @@
-# TestingGitHub
+# Testing GitHub
 
 This is my testing repository for a SoftUni lecture.
 
